@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8864ceb3-bc35-42f9-afed-9c0865c3d830",
+    "name": "test_choice",
+    "decisions": [
+      {
+        "id": "e23bd97e-dce6-4e9a-845b-10b76afd26b6",
+        "description": "test_decision",
+        "effects": [
+          {
+            "id": "294aa9ee-6bbd-45cc-99a9-1d3b1bf3510e",
+            "property": "Money",
+            "value": "-50",
+            "duration": 1
+          }
+        ]
+      }
+    ],
+    "min_age": 1,
+    "max_age": 2
+  },
+  {
+    "id": "51c5e828-af80-48af-a4d1-2b2ebd3accc7",
+    "name": "test_choice",
+    "decisions": [
+      {
+        "id": "ef2b987e-d0da-4b71-8f6d-5f2b4638f660",
+        "description": "test_decision",
+        "effects": [
+          {
+            "id": "940c7831-8cb9-4664-a1e0-5e13f748e42c",
+            "property": "Credit",
+            "value": "-3",
+            "duration": 1
+          }
+        ]
+      }
+    ],
+    "min_age": 1,
+    "max_age": 2
+  },
+  {
+    "id": "5c865dca-8a6c-4181-bf4d-c33501a8b150",
+    "name": "test_choice",
+    "decisions": [
+      {
+        "id": "4e1dc91e-ce0f-4b3c-9368-18908f86af87",
+        "description": "test_decision",
+        "effects": [
+          {
+            "id": "aaddb4d6-14bd-4287-9f4e-2d0ceada2bc3",
+            "property": "Money",
+            "value": "100",
+            "duration": 1
+          }
+        ]
+      }
+    ],
+    "min_age": 1,
+    "max_age": 2
+  }
+]
